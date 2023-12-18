@@ -1,4 +1,3 @@
-<img alt="coding" width=4000 src="https://st2.depositphotos.com/38434770/44878/i/450/depositphotos_448784260-stock-photo-wave-points-lines-abstract-background.jpg">
 <h1 align="center">Hi 👋, I'm Yasin Arafat.</h1>
 <h3 align="center">A passionate programmer from Bangladesh!</h3>
 <p align = "center"> 
