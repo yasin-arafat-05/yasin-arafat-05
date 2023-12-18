@@ -1,4 +1,4 @@
-<img alt="coding" width=4000 src="https://github.com/yasin-arafat-05/yasin-arafat-05/blob/main/gityasin.PNG">
+<img alt="coding" width=4000 src="https://i.pinimg.com/736x/df/c6/03/dfc60336d4d0e8b35a970fdb753e86c0.jpg">
 <h1 align="center">Hi 👋, I'm Yasin Arafat.</h1>
 <h3 align="center">A passionate programmer from Bangladesh!</h3>
 <p align = "center"> 
