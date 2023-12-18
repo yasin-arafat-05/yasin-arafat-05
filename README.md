@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Yasin Arafat.</h1>
+<h1 align="center">Hi , I'm Yasin Arafat.</h1>
 <h3 align="center">A passionate programmer from Bangladesh!</h3>
+[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Arch+Linux+%2B+KDE+plasma;A+passionate+programmer+from+Bangladesh!+)](https://git.io/typing-svg)
+
 <p align = "center"> 
 <img  alt="coding" width=400 src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 </p>
