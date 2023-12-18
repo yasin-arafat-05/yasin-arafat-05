@@ -10,7 +10,6 @@
 
 - 📫 How to reach me **ug2102030@cse.pstu.ac.bd**
 
-- ⚡ Fun fact **I am funny and romantic💝.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
