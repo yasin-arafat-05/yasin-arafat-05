@@ -1,8 +1,10 @@
 <h1 align="center">Hi , I'm Yasin Arafat.</h1>
-
+<h3 align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi!+,+I,m+Yasin+Arafat." alt="Typing SVG" /></a>
+</h3>
 
 <h3 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=A+passionate+programmer+from+Bangladesh!+" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=A+programmer+from+Bangladesh!" alt="Typing SVG" /></a>
 </h3>
 
 
