@@ -5,6 +5,8 @@
 </h3>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yasin-arafat-05&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yasin-arafat-05&theme=github_dark) 
+![](https://github-profile-summarycards.vercel.app/api/cards/most-commit-language?username=yasin-arafat-05&theme=github_dark)
 
 
 <p align = "center"> 
