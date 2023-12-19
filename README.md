@@ -1,9 +1,38 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+,+I'm+Yasin+Arafat!" alt="Hi, I'm Yasin Arafat!" /></a>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<h3>A passionate Programmer from Bangladesh!</h3>
+<div>
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
+ <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
+</div>
+<br>
+<div>
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="50" height="50" />
+</div>
+
+
+<div>
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/swift-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/eslint-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="50" height="50" />
+</div>
+
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=A+programmer+from+Bangladesh!" alt="A programer from Bangladesh!" /></a>
 
 <!-- With Markdown Language -->
 
@@ -19,7 +48,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=yasin-arafat-05&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 - 📫 How to reach me **ug2102030@cse.pstu.ac.bd**
 
