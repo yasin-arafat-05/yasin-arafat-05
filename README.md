@@ -10,10 +10,9 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yasin-arafat-05&theme=github_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yasin-arafat-05&theme=github_dark)
 
 
-<img  alt="coding" width=400 src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<!-- <img  alt="coding" width=400 src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"> -->
 
 
-<img  alt="coding" width=400 src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/0587f251249217.58e7079c0894c.gif">
 
 
 
@@ -53,3 +52,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yasin-arafat-05&show_icons=true&locale=en&theme=github_dark" alt="yasin-arafat-05" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yasin-arafat-05&&theme=github_dark" alt="yasin-arafat-05" /></p>
+
+
+<img  alt="coding" width=1000 src="Capture.PNG">
