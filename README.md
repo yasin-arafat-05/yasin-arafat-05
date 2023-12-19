@@ -4,6 +4,8 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=A+programmer+from+Bangladesh!" alt="Typing SVG" /></a>
 </h3>
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=uthsobcb&theme=github_dark)
+
 
 <p align = "center"> 
 <img  alt="coding" width=400 src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
