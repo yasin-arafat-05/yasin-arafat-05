@@ -66,11 +66,8 @@
 
 <!-- Last Three Image -->
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yasin-arafat-05&theme=github_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yasin-arafat-05&theme=github_dark)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yasin-arafat-05&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="yasin-arafat-05" /></p>
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yasin-arafat-05&show_icons=true&locale=en&theme=github_dark" alt="yasin-arafat-05" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yasin-arafat-05&&theme=github_dark" alt="yasin-arafat-05" /></p>
 
