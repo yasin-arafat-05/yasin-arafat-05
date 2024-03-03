@@ -20,11 +20,9 @@
   <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/js-icon.svg" width="50" height="50" />
 </div>
--->
 <br>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
 
 <!-- With Markdown Language -->
 
