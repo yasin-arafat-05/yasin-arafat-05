@@ -2,7 +2,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+,+I'm+Yasin+Arafat!" alt="Hi, I'm Yasin Arafat!" /></a>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-
+<!--
 <div>
   <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="50" height="50" />
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=A+Passionate+Coder+From+Bangladesh+!"alt="A Passionate Programmer Form Bangladesh" /></a>
@@ -20,6 +20,7 @@
   <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/js-icon.svg" width="50" height="50" />
 </div>
+-->
 <br>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
