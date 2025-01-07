@@ -70,10 +70,12 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
+
 <!-- Last Three Image -->
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yasin-arafat-05&theme=github_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yasin-arafat-05&theme=github_dark)
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yasin-arafat-05&theme=github_dark" alt="Yasin Arafat" /></p>
 
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
